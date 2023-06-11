@@ -6,10 +6,15 @@ This repository contains a Jupyter Notebook for a hand-written digit prediction 
 **Table of Contents**
 
 . Introduction
+
 . Dataset
+
 . Installation
+
 . Usage
+
 . Contributing
+
 . License
 
 **Introduction**
