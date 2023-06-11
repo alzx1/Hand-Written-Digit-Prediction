@@ -2,6 +2,11 @@
 
 This repository contains a Jupyter Notebook for a hand-written digit prediction project using classification analysis. The notebook explores the popular MNIST dataset and implements a machine learning model to predict the handwritten digits.
 
+### Hand Written Digit Prediction 🧙‍♂️
+
+![Hand Written Digit Prediction](https://github.com/alzx1/Hand-Written-Digit-Prediction/blob/main/image.png)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
